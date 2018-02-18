@@ -1,0 +1,28 @@
+#board{
+  z-index: 1;
+  position: absolute;
+  left: 350px;
+  height: 550px;
+  width: 700px;
+}
+
+#orb{
+  position:relative;
+}
+img{
+  z-index: -1;
+  height: 25px;
+  width: 25px;
+}
+table{
+  border-collapse: collapse;
+  border-color: red;
+}
+
+table,tr,td{
+  height: 90px;
+  padding: 0px;
+  width: 700px;
+  background-color: black;
+  text-align: center;
+}
