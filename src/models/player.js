@@ -5,6 +5,7 @@ const Player=function(orbColor,name){
 }
 
 Player.prototype={
+  
   addSelectedCells:function(cell){
     this.selectedCells.push(cell);
   },

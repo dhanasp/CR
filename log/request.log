@@ -1,0 +1,3246 @@
+------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:00:01 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "cookie": "player=1"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:00:41 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:19:00 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:19:00 PM
+GET
+/game.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:19:00 PM
+GET
+/cell.js
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "*/*",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:19:00 PM
+GET
+/draw.js
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "*/*",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:19:00 PM
+GET
+/player.js
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "*/*",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:19:00 PM
+GET
+/game.js
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "*/*",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:19:00 PM
+GET
+/control.js
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "*/*",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:19:22 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"220-161a76372c0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 05:29:28 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:19:22 PM
+GET
+/game.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:19:22 PM
+GET
+/draw.js
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "*/*",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:19:22 PM
+GET
+/cell.js
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "*/*",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:19:22 PM
+GET
+/player.js
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "*/*",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:19:22 PM
+GET
+/game.js
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "*/*",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:19:22 PM
+GET
+/control.js
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "*/*",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:19:22 PM
+GET
+/draw.js
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "*/*",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:19:22 PM
+GET
+/player.js
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "*/*",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:19:22 PM
+GET
+/game.js
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "*/*",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:19:22 PM
+GET
+/control.js
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "*/*",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:19:25 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"220-161a76372c0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 05:29:28 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:19:25 PM
+GET
+/game.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:19:25 PM
+GET
+/cell.js
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "*/*",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:19:25 PM
+GET
+/draw.js
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "*/*",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:19:25 PM
+GET
+/player.js
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "*/*",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:19:25 PM
+GET
+/game.js
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "*/*",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:19:25 PM
+GET
+/control.js
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "*/*",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:22:39 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"220-161a76372c0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 05:29:28 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:26:58 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"136-161a8f7d630\"",
+  "if-modified-since": "Sun, 18 Feb 2018 12:51:10 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:27:11 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"188-161a8fd0e20\"",
+  "if-modified-since": "Sun, 18 Feb 2018 12:56:52 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:27:49 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"18e-161a8fd5858\"",
+  "if-modified-since": "Sun, 18 Feb 2018 12:57:11 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:28:14 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"192-161a8fde8e0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 12:57:48 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:30:30 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"1bd-161a8fe3ed0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 12:58:10 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:31:08 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"21e-161a90055f8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:00:27 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:31:09 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"21e-161a90055f8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:00:27 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:31:09 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"21e-161a90055f8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:00:27 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:31:25 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"21e-161a90055f8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:00:27 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:31:29 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"21e-161a90055f8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:00:27 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:31:36 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"21e-161a90055f8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:00:27 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:32:51 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"21e-161a90055f8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:00:27 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:32:51 PM
+GET
+/js/index.js
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "*/*",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:32:51 PM
+GET
+/css/index.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:34:51 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"a04-161a90278d8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:02:47 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:34:51 PM
+GET
+/js/index.js
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "*/*",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:34:51 PM
+GET
+/css/index.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:35:21 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"a0a-161a902f5d8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:03:19 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:35:21 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:35:21 PM
+GET
+/js/index.js
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "*/*",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:37:22 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"a0a-161a904ca98\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:05:19 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:46:11 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"a0a-161a9068bd0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:07:14 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:48:10 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9b5-161a90eb5a8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:16:09 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:48:27 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9b7-161a9101150\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:17:38 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:49:01 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9b7-161a9101150\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:17:38 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:49:12 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9b7-161a9101150\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:17:38 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:49:38 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9b7-161a9101150\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:17:38 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:50:05 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9b7-161a9101150\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:17:38 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:50:35 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9b7-161a9101150\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:17:38 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:50:35 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"e18-161a9045180\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:04:48 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:51:23 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e6-161a912b900\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:20:32 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:51:23 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"909-161a9124ba0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:20:04 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:51:54 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e6-161a912b900\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:20:32 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:51:54 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"90e-161a9137868\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:21:21 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:52:38 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e6-161a913f180\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:21:52 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:52:38 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"907-161a9139f78\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:21:31 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:52:54 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e6-161a913f180\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:21:52 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:52:54 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"86e-161a9149d60\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:22:36 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:54:39 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e6-161a913f180\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:21:52 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:54:39 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"884-161a914e3b0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:22:54 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:54:55 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e6-161a913f180\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:21:52 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:54:55 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"88e-161a9166e38\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:24:35 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:55:05 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e6-161a913f180\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:21:52 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:55:05 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"894-161a916b488\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:24:53 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:55:15 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e6-161a913f180\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:21:52 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:55:15 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"8a6-161a916df80\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:25:04 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:55:19 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e6-161a913f180\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:21:52 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:55:19 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "if-none-match": "W/\"8a8-161a9170690\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:25:14 GMT",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:55:24 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e6-161a913f180\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:21:52 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:55:24 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "if-none-match": "W/\"8a8-161a9170690\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:25:14 GMT",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:55:24 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e6-161a913f180\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:21:52 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:55:24 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "if-none-match": "W/\"8a7-161a9171a18\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:25:19 GMT",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:55:31 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e6-161a913f180\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:21:52 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:55:31 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "if-none-match": "W/\"8a7-161a9171a18\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:25:19 GMT",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:55:37 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e6-161a913f180\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:21:52 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:55:37 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"8a7-161a91748f8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:25:31 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:56:06 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e6-161a913f180\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:21:52 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:56:06 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"8a7-161a9176068\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:25:37 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:56:21 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e6-161a913f180\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:21:52 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 6:56:21 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"8cd-161a917cdc8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:26:05 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:08:35 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e6-161a913f180\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:21:52 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:08:35 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"8dd-161a9180860\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:26:20 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:08:42 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e6-161a913f180\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:21:52 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:08:42 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "if-none-match": "W/\"8ed-161a92333c0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:38:32 GMT",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:09:10 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e6-161a913f180\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:21:52 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:09:10 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"8ed-161a9235ad0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:38:42 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:09:22 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e6-161a913f180\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:21:52 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:09:23 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"8f3-161a923c448\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:39:09 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:09:29 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e6-161a913f180\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:21:52 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:09:30 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "if-none-match": "W/\"8d9-161a923f710\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:39:22 GMT",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:10:50 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e6-161a913f180\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:21:52 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:10:50 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"8b9-161a9241268\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:39:29 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:11:40 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e6-161a92458b8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:39:47 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:11:40 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"8ca-161a9253b48\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:40:45 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:11:56 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e7-161a9261220\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:41:40 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:11:56 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"8cd-161a9255e70\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:40:54 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:11:58 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9d7-161a9264cb8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:41:55 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:11:58 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "if-none-match": "W/\"8cd-161a9255e70\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:40:54 GMT",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:11:58 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9d7-161a9264cb8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:41:55 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:11:58 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "if-none-match": "W/\"8cd-161a9255e70\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:40:54 GMT",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:11:58 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9d7-161a9264cb8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:41:55 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:11:58 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "if-none-match": "W/\"8cd-161a9255e70\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:40:54 GMT",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:12:37 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9d7-161a9264cb8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:41:55 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:12:37 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "if-none-match": "W/\"8cd-161a9255e70\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:40:54 GMT",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:13:01 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9ca-161a926f0c8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:42:37 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:13:01 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "if-none-match": "W/\"8cd-161a9255e70\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:40:54 GMT",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:13:35 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9ca-161a926f0c8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:42:37 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:13:35 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"8d1-161a9274aa0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:43:00 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:13:43 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9ca-161a926f0c8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:42:37 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:13:43 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "if-none-match": "W/\"8d0-161a927d358\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:43:35 GMT",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:14:04 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9ca-161a926f0c8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:42:37 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:14:04 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"8d0-161a927f298\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:43:43 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:14:09 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9ca-161a926f0c8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:42:37 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:14:09 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "if-none-match": "W/\"8db-161a92838e8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:44:01 GMT",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:14:16 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9ca-161a926f0c8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:42:37 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:14:16 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"8e0-161a92844a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:44:04 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:15:03 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9ca-161a926f0c8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:42:37 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:15:03 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"8d0-161a9286f98\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:44:15 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:15:08 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e3-161a9291f60\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:45:00 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:15:08 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "if-none-match": "W/\"8d0-161a9286f98\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:44:15 GMT",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:15:17 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9ec-161a9293ab8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:45:07 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:15:17 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "if-none-match": "W/\"8d0-161a9286f98\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:44:15 GMT",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:15:39 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9ec-161a9293ab8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:45:07 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:15:39 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"8c0-161a9295de0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:45:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:15:47 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9eb-161a929ac00\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:45:36 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:15:47 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"8c0-161a9295de0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:45:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:16:24 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"992-161a929d310\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:45:46 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:16:24 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"8c0-161a9295de0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:45:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:16:42 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"966-161a92a5fb0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:46:22 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:16:42 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"8c0-161a9295de0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:45:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:17:18 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"966-161a92a5fb0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:46:22 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:17:18 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"8c6-161a92aa600\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:46:40 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:18:10 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:18:10 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"8c6-161a92aa600\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:46:40 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:18:24 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:18:24 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"8db-161a92bfdc0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:48:08 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:18:38 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:18:38 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"8db-161a92c3858\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:48:23 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:18:44 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:18:44 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "if-none-match": "W/\"8d9-161a92c6f08\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:48:37 GMT",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:18:51 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:18:51 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"8da-161a92c8a60\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:48:44 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:18:58 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:18:58 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "if-none-match": "W/\"8db-161a92ca1d0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:48:50 GMT",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:19:03 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:19:03 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"8dc-161a92cc110\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:48:58 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:19:07 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:19:07 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "if-none-match": "W/\"8de-161a92cd498\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:49:03 GMT",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:19:14 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:19:15 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"8dd-161a92ce438\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:49:07 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:19:29 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:19:29 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"8dc-161a92cff90\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:49:14 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:19:36 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:19:36 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "if-none-match": "W/\"8ee-161a92d3a28\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:49:29 GMT",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:19:45 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:19:45 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"8ee-161a92d5580\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:49:36 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:19:51 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:19:51 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "if-none-match": "W/\"8fe-161a92d78a8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:49:45 GMT",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:19:54 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:19:54 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "if-none-match": "W/\"8fe-161a92d78a8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:49:45 GMT",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:19:54 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:19:54 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "if-none-match": "W/\"8ee-161a92d9bd0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:49:54 GMT",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:20:50 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:20:50 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "if-none-match": "W/\"8ee-161a92d9bd0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:49:54 GMT",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:20:57 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:20:57 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "if-none-match": "W/\"904-161a92e6ec0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:50:48 GMT",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:21:09 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:21:09 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"904-161a92e91e8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:50:57 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:21:20 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:21:20 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"904-161a92ec0c8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:51:09 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:21:55 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:21:55 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"903-161a92eebc0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:51:20 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:22:11 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:22:11 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"903-161a92f7478\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:51:55 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:22:42 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:22:42 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"91c-161a92faf10\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:52:10 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:22:49 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:22:49 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "if-none-match": "W/\"930-161a9302828\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:52:41 GMT",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:23:00 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:23:00 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"933-161a9304768\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:52:49 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:23:12 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:23:12 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"960-161a9307260\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:53:00 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:23:36 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:23:36 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"96e-161a9309970\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:53:10 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:23:50 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:23:50 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"946-161a930fb18\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:53:35 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:24:16 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:24:16 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"946-161a93129f8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:53:47 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:28:19 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:28:19 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"946-161a93187b8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:54:11 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:29:16 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:29:16 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"958-161a9354c90\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:58:18 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:30:13 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"984-161a92b32a0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:47:16 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:30:13 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"986-161a9362750\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:59:14 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:32:30 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9aa-161a93709e0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 14:00:12 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:32:30 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"986-161a9362750\"",
+  "if-modified-since": "Sun, 18 Feb 2018 13:59:14 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:32:48 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9ac-161a9387140\"",
+  "if-modified-since": "Sun, 18 Feb 2018 14:01:44 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:32:48 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9cc-161a93924f0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 14:02:30 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:33:23 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9ac-161a9387140\"",
+  "if-modified-since": "Sun, 18 Feb 2018 14:01:44 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:33:23 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e3-161a9396b40\"",
+  "if-modified-since": "Sun, 18 Feb 2018 14:02:48 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:35:11 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9ac-161a9387140\"",
+  "if-modified-since": "Sun, 18 Feb 2018 14:01:44 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:35:11 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9ff-161a939f3f8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 14:03:23 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:35:43 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9c2-161a93b95f0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 14:05:10 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:35:43 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e3-161a93a1338\"",
+  "if-modified-since": "Sun, 18 Feb 2018 14:03:31 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:37:06 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9c2-161a93b95f0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 14:05:10 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:37:06 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e9-161a93c12f0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 14:05:42 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:37:22 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9ca-161a93d5340\"",
+  "if-modified-since": "Sun, 18 Feb 2018 14:07:04 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:37:22 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e9-161a93c12f0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 14:05:42 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:37:27 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9ca-161a93d5340\"",
+  "if-modified-since": "Sun, 18 Feb 2018 14:07:04 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:37:27 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "if-none-match": "W/\"9ea-161a93d9990\"",
+  "if-modified-since": "Sun, 18 Feb 2018 14:07:22 GMT",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:37:33 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9ca-161a93d5340\"",
+  "if-modified-since": "Sun, 18 Feb 2018 14:07:04 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:37:33 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9e9-161a93dad18\"",
+  "if-modified-since": "Sun, 18 Feb 2018 14:07:27 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:37:44 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9ca-161a93d5340\"",
+  "if-modified-since": "Sun, 18 Feb 2018 14:07:04 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:37:44 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9ea-161a93dbcb8\"",
+  "if-modified-since": "Sun, 18 Feb 2018 14:07:31 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:38:14 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9ca-161a93d5340\"",
+  "if-modified-since": "Sun, 18 Feb 2018 14:07:04 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:38:14 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9f1-161a93def80\"",
+  "if-modified-since": "Sun, 18 Feb 2018 14:07:44 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:38:19 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9ca-161a93d5340\"",
+  "if-modified-since": "Sun, 18 Feb 2018 14:07:04 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:38:19 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "if-none-match": "W/\"a07-161a93e64b0\"",
+  "if-modified-since": "Sun, 18 Feb 2018 14:08:14 GMT",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:39:23 PM
+GET
+/
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "cache-control": "max-age=0",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"9ca-161a93d5340\"",
+  "if-modified-since": "Sun, 18 Feb 2018 14:07:04 GMT"
+}------------------------------------------------
+Sun Feb 18 2018 2/18/2018, 7:39:23 PM
+GET
+/css/style.css
+{
+  "host": "localhost:7777",
+  "connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "http://localhost:7777/",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.9",
+  "if-none-match": "W/\"a06-161a93e7838\"",
+  "if-modified-since": "Sun, 18 Feb 2018 14:08:19 GMT"
+}

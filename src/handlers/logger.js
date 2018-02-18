@@ -1,4 +1,9 @@
-const logger = function(fs, req, res) {
+const timeStamp=function(){
+  let time=new Date();
+  return `${time.toDateString()} ${time.toLocaleString()}`
+}
+
+const logger = function(req, res,next) {
   let logs = [
     "------------------------------------------------",
     `${timeStamp()}`,
@@ -7,6 +12,7 @@ const logger = function(fs, req, res) {
     `${JSON.stringify(req.headers, null, 2)}`
   ].join("\n");
   console.log(`${req.url}`, `${req.method}`);
-  fs.appendFile("./data/log.json");
+  req.app.fs.appendFile("./log/request.log",logs,next);
 };
+
 exports.logger = logger;

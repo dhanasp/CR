@@ -1,19 +1,101 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>my page</title>
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="game.css">
-    <script src="./cell.js" charset="utf-8"></script>
-    <script src="./draw.js" charset="utf-8"></script>
-    <script src="./player.js" charset="utf-8"></script>
-    <script src="./game.js" charset="utf-8"></script>
-    <script src="./control.js" charset="utf-8"></script>
-    <center><h1>ChainReaction</h1></center>
-  </head>
-  <body>
-    <div id="board">
-      <img src="" alt="">
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <script src="/"></script>
+  <link rel="stylesheet" href="css/style.css">
+  <title>chain reaction</title>
+</head>
+<body>
+  <header>
+    <h1>Chain Reaction</h1>
+  </header>
+  <div class="button">
+    <button id="create Game" >create Game</button>
+  </div>
+  <div class="button">
+    <button id="join Game">join Game</button>  
+  </div>
+  <div id="popup">
+    <div id=createPopup>
+
     </div>
-  </body>
+
+  </div>
+
+
+
+</body>
 </html>
+<!-- <!DOCTYPE html>
+
+<html>
+
+<head>
+  <title>Stratego
+  </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script type="text/javascript" src="/js/index.js"></script>
+  <link rel="stylesheet" href="/css/style.css">
+  <link href="https://fonts.googleapis.com/css?family=Alegreya" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=UnifrakturCook:700" rel="stylesheet">
+</head>
+
+<body>
+  <header>
+    <h1>Stratego</h1>
+
+  </header>
+  <div class="row">
+    <div class="column-side">
+    </div>
+    <div class="column-middle">
+
+      <div class="basic">
+        <div class="button">
+          <button id="redbutton" onclick="getCreateForm()">Create Game</button>
+        </div>
+        <div class="button">
+          <button id="bluebutton" onclick="getJoinForm()">Join Game</button>
+        </div>
+      </div>
+
+      <div class="basic" id="create">
+        <div class="popup-form">
+          <div class="form-input">
+            <label for="name"> Enter Your Name</label>
+            <input type="text" placeholder="Ex: Sayima" id="name" name="name" required>
+          </div>
+          <div class="button">
+            <button id="redbutton" onclick="startGame()">Create Game</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="basic" id="join">
+        <form action="joinGame" class="popup-form" method="POST">
+          <div class="form-input">
+            <label for="name"> Enter Your Name</label>
+            <input pattern="[A-Za-z]+" type="text" id="name" placeholder="Ex: Sayima" name="name" required>
+          </div>
+          <div class="form-input">
+            <label for="name"> Enter Sharing Key</label>
+            <input type="text" id="gameid" placeholder="Sharing key" name="gameid" required>
+          </div>
+          <div class="button">
+            <button id="redbutton">START BATTLE</button>
+          </div>
+        </form>
+      </div>
+
+    </div>
+    <div class="column-side">
+    </div>
+
+  </div>
+
+</body>
+
+</html> -->
